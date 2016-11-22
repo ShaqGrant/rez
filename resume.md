@@ -3,8 +3,8 @@
 ### Contact
 
 Email: [shaq.grant.95@gmail.com](mailto:shaq.grant.95@gmail.com "Shaquille Grant's Email")  
-GitHub : [mark-berger](https://github.com/shaqgrant "Shaquille Grant on GitHub")  
-LinkedIn : [maberger](https://www.linkedin.com/in/shaqgrant "Shaquille Grant on LinkedIn")  
+GitHub : [shaqgrant](https://github.com/shaqgrant "Shaquille Grant on GitHub")  
+LinkedIn : [shaqgrant](https://www.linkedin.com/in/shaqgrant "Shaquille Grant on LinkedIn")  
 Location : Kingston, Jamaica
 
 ### Technical Skills
