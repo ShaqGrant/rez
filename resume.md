@@ -1,11 +1,10 @@
 # Shaquille Grant - BSc Computer Science
 
 ### Contact
-
-Email: [shaq.grant.95@gmail.com](mailto:shaq.grant.95@gmail.com)  
-GitHub : [shaqgrant](https://github.com/shaqgrant)  
-LinkedIn : [shaqgrant](https://www.linkedin.com/in/shaqgrant)  
-Location : Kingston, Jamaica
+------------
+Cell:  (876) 481-9581
+Email: shaq.grant.95@gmail.com 
+GitHub : https://github.com/shaqgrant 
 
 ### Technical Skills
 
