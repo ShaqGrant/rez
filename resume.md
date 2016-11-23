@@ -2,9 +2,11 @@
 
 ### Contact
 
-* Cell:  (876) 481-9581
-* Email: shaq.grant.95@gmail.com 
-* GitHub : https://github.com/shaqgrant 
+Cell:  (876) 481-9581
+
+Email: shaq.grant.95@gmail.com 
+
+GitHub : https://github.com/shaqgrant 
 
 ### Technical Skills
 
@@ -38,23 +40,27 @@ I'm a software developer from Kingston, Jamaica. I am currently pursing a BSc in
 
 ### Projects
 
-**Software Development** (Coursework)  
+**Software Development** (Coursework)
+
 *Developed a JUTC Bus Scheduling System using PHP, SQL and JDBC*
 *Developed a  Talent Directory System for KBC Talent Agency*
 
 **Web Development** (Coursework)
+
 *Implemented simple Javascript games*
 *Developed a wishlist web application using Flask and AngularJS*
 *Developed a profile web application using Flask-login and Flask-migrate*
 *Deployment of several web applications via Heroku*
 
 **Networking** (Coursework)
+
 *Implemented a simple Diffie-Hellman client server key exchange via sockets using python*
 *Implemented a simple reliable data transport protocol for the in-order delivery of UDP datagrams*
 
 
 ### Interests
 
-**General**: Game development, cybersecurity, network security, hacking 
+**General**: Game development, cybersecurity, network security, hacking
+
 **Internet**: Latest web tech, open-source projects, software development blogs  
 **Fun**: Film, television, video games 
