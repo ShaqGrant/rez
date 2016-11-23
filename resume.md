@@ -28,38 +28,23 @@ I'm a software developer from Kingston, Jamaica. I am currently pursing a BSc in
 **Open Campus Learning Centre** (UWI, Mona)  
 *Lab Support, Part-time* from Sep 2014 to Current
 
-* Created a powerful Jekyll build system using GruntJS, Bower, Haml, Sass
-* Added new features to a shopping cart built with AngularJS
-* Developed responsive, fluid, and interactive visualizations using D3.js
-* Designed a system to extract data from Facebook, Twitter, Google+ APIs
-* Individually built a dashboard for monitoring and visualizing community
+* Identified and responded to technical support needs of students.
+* Resolved student issues in a clear, courteous and straight forward manner
 
 **Open Campus Learning Centre** (UWI, Mona)  
 *Front Desk Clerk, Part-time* from Sep 2014 to Current
 
-* Built a rich and dynamic single-page web application using AngularJS
-* Gained experience with Sass, Jade, GruntJS, Jasmine, npm
-* Developed a RESTful API with Django, interfacing with Facebook APIs
-* Managed pull requests and code reviews in an agile team using git-flow
+* Managed call flow and directed calls to appropriate individuals and departments.
+* Managed front desk area, including greeting visitors and responding to telephone calls and in-person requests for information
 
+### Projects
 
-### Awards, Scholarships, & Achievements
-
-**Graduation with Distinction** (University of Waterloo)  
+**Graduation with Distinction** (Coursework)  
 *Attained a cumulative average of at least 80%*, Jun 2015
-
-**Outstanding Co-op Evaluations** (University of Waterloo)  
-*Significantly exceeded all expectations for all 6 terms*, Jun 2015
-
-**Nortel Networks & President’s Entrance Scholarship** (University of Waterloo)  
-*Awarded to top students entering Computer Engineering*, Nov 2010
-
-**Best Presentation, U of T Space Design Contest** (University of Toronto)  
-*First place for international engineering competition*, May 2010
 
 
 ### Interests
 
-**Design**: User interfaces, user experience, layouts and themes, LaTeX  
+**Design**: User interfaces, user experience, layouts and themes  
 **Internet**: Latest web tech, open-source projects, software development blogs  
 **Fun**: Film, television, video games, coding  
