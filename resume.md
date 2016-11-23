@@ -4,7 +4,7 @@
 
 Cell:  (876) 481-9581  
 Email: shaq.grant.95@gmail.com  
-GitHub : [http://www.github.com/shaqgrant]
+GitHub : www.github.com/shaqgrant
 
 ### Technical Skills
 
