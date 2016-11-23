@@ -2,9 +2,9 @@
 
 ### Contact
 
-Cell:  (876) 481-9581
-Email: shaq.grant.95@gmail.com 
-GitHub : https://github.com/shaqgrant 
+* Cell:  (876) 481-9581
+* Email: shaq.grant.95@gmail.com 
+* GitHub : https://github.com/shaqgrant 
 
 ### Technical Skills
 
@@ -38,8 +38,8 @@ I'm a software developer from Kingston, Jamaica. I am currently pursing a BSc in
 
 ### Projects
 
-**Software Developement** (Coursework)  
-*Developed a JUTC Bus Scheduling System using HTML, CSS, Javascript for the front end and PHP and JDBC for the Back end SQL for the database*, May 2016
+**Software Development** (Coursework)  
+*Developed a JUTC Bus Scheduling System using PHP, SQL and JDBC*
 *Developed a  Talent Directory System for KBC Talent Agency*
 
 **Web Development** (Coursework)
