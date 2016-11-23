@@ -1,7 +1,7 @@
 # Shaquille Grant - BSc Computer Science
 
 ### Contact
-------------
+
 Cell:  (876) 481-9581
 Email: shaq.grant.95@gmail.com 
 GitHub : https://github.com/shaqgrant 
@@ -15,7 +15,7 @@ GitHub : https://github.com/shaqgrant
 
 ### Summary
 
-I'm a software developer from Kingston, Jamaica. I am currently pursing a BSc in Computer Science at the University of the West Indies and I'm looking for new opportunities. Working with both hardware and software on various platforms from embedded systems to mobile phones has broadened my experience, but you'll find me most at home developing for the web. I really enjoy building client-side web applications, and have a strong foundation in server-side development and working with databases. Consistency and clear communication have always been very important to me and I'm a quick learner who is always eager to pick up new technologies.
+I'm a software developer from Kingston, Jamaica. I am currently pursing a BSc in Computer Science at the University of the West Indies and I'm looking for new opportunities. Having been exposed to a variety of programming aspects has broadened my experience, but you'll find me most at home developing software. I have a passion for network security and developing software, especially games. Consistency and clear communication have always been very important to me and I'm a quick learner who is always eager to pick up new technologies.
 
 ### Education
 
@@ -38,12 +38,23 @@ I'm a software developer from Kingston, Jamaica. I am currently pursing a BSc in
 
 ### Projects
 
-**Graduation with Distinction** (Coursework)  
-*Attained a cumulative average of at least 80%*, Jun 2015
+**Software Developement** (Coursework)  
+*Developed a JUTC Bus Scheduling System using HTML, CSS, Javascript for the front end and PHP and JDBC for the Back end SQL for the database*, May 2016
+*Developed a  Talent Directory System for KBC Talent Agency*
+
+**Web Development** (Coursework)
+*Implemented simple Javascript games*
+*Developed a wishlist web application using Flask and AngularJS*
+*Developed a profile web application using Flask-login and Flask-migrate*
+*Deployment of several web applications via Heroku*
+
+**Networking** (Coursework)
+*Implemented a simple Diffie-Hellman client server key exchange via sockets using python*
+*Implemented a simple reliable data transport protocol for the in-order delivery of UDP datagrams*
 
 
 ### Interests
 
-**Design**: User interfaces, user experience, layouts and themes  
+**General**: Game development, cybersecurity, network security, hacking 
 **Internet**: Latest web tech, open-source projects, software development blogs  
-**Fun**: Film, television, video games, coding  
+**Fun**: Film, television, video games 
