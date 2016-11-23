@@ -4,7 +4,7 @@
 
 Cell:  (876) 481-9581  
 Email: shaq.grant.95@gmail.com  
-GitHub : https://github.com/shaqgrant 
+GitHub : 
 
 ### Technical Skills
 
@@ -55,6 +55,6 @@ I am a software developer from Kingston, Jamaica. I am currently pursing a BSc i
 
 ### Interests
 
-**General**: Game development, cybersecurity, network security, hacking
+**General**: Game development, cybersecurity, network security, hacking  
 **Internet**: Latest web tech, open-source projects, software development blogs  
 **Fun**: Film, television, video games 
