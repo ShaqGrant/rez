@@ -58,3 +58,7 @@ I am a young programmer from Kingston, Jamaica. I am currently pursing a BSc in 
 **General**: Game development, cybersecurity, network security, hacking  
 **Internet**: Latest web tech, open-source projects, software development blogs  
 **Fun**: Film, television, video games 
+
+
+### References
+*Available on request*
