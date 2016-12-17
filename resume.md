@@ -15,7 +15,7 @@ GitHub : www.github.com/shaqgrant
 
 ### Summary
 
-I am a software developer from Kingston, Jamaica. I am currently pursing a BSc in Computer Science at the University of the West Indies and I'm looking for new opportunities. Having been exposed to a variety of programming aspects throughout my time at UWI has broadened my experience, but you'll find me most at home developing software with a trusty team. I also have a passion for network security and game development. Consistency and clear communication have always been very important to me and I'm a quick learner who is always eager to pick up new technologies.
+I am a young programmer from Kingston, Jamaica. I am currently pursing a BSc in Computer Science at the University of the West Indies and I'm looking for new opportunities to expand my arsenal of skills. Having been exposed to a variety of programming aspects throughout my time at UWI has broadened my experience but you'll find me most at home devising creative ways to solve new problems. I have a passion for Computer Networking and Security with a love for Game Development as a hobby. Consistency and clear communication have always been very important to me; I'm a quick learner who is always eager to learn new concepts and pick up new technologies.
 
 ### Education
 
