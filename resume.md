@@ -15,7 +15,7 @@ GitHub : www.github.com/shaqgrant
 
 ### Summary
 
-I am a young programmer from Kingston, Jamaica. I am currently pursing a BSc in Computer Science at the University of the West Indies and I'm looking for new opportunities to expand my arsenal of skills. Having been exposed to a variety of programming aspects throughout my time at UWI has broadened my experience but you'll find me most at home devising creative ways to solve new problems. I have a passion for Computer Networking and Security with a love for Game Development as a hobby. Consistency and clear communication have always been very important to me; I'm a quick learner who is always eager to learn new concepts and pick up new technologies.
+I am a young programmer from Kingston, Jamaica. I am currently pursing a BSc in Computer Science at the University of the West Indies and I'm looking for new opportunities to expand my arsenal of skills. Having been exposed to a variety of programming aspects throughout my time at UWI has broadened my experience but you'll find me most at home devising creative ways to solve new problems. I have a passion for Software Development and Network Security with a love for Game Development as a hobby. Consistency and clear communication have always been very important to me; I'm a quick learner who is always eager to learn new concepts and pick up new technologies.
 
 ### Education
 
@@ -41,6 +41,7 @@ I am a young programmer from Kingston, Jamaica. I am currently pursing a BSc in 
 **Software Development** (Coursework)  
 *Developed a JUTC Bus Scheduling System using PHP, SQL and JDBC*  
 *Developed a  Talent Directory System for KBC Talent Agency*
+*Currently developing an E-Learning system for the sharing and reuse of learning objects*
 
 **Web Development** (Coursework)  
 *Implemented simple Javascript games*  
@@ -55,9 +56,9 @@ I am a young programmer from Kingston, Jamaica. I am currently pursing a BSc in 
 
 ### Interests
 
-**General**: Game development, cybersecurity, network security, hacking  
+**General**: Software development, game development, cybersecurity, computer networks
 **Internet**: Latest web tech, open-source projects, software development blogs  
-**Fun**: Film, television, video games 
+**Fun**: Film, television, video games, music
 
 
 ### References
