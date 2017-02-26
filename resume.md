@@ -40,7 +40,7 @@ I am a young programmer from Kingston, Jamaica. I am currently pursing a BSc in 
 
 **Software Development** (Coursework)  
 *Developed a JUTC Bus Scheduling System using PHP, SQL and JDBC*  
-*Developed a  Talent Directory System for KBC Talent Agency* 
+*Developed a  Talent Directory System for KBC Talent Agency*  
 *Currently developing an E-Learning system for the sharing and reuse of learning objects*
 
 **Web Development** (Coursework)  
