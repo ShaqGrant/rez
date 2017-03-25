@@ -1,5 +1,7 @@
 # Shaquille Grant - BSc Computer Science
-Cell:  (876) 481-9581    Email: shaq.grant.95@gmail.com    GitHub : www.github.com/shaqgrant
+Cell:  (876) 481-9581  
+Email: shaq.grant.95@gmail.com     
+GitHub : www.github.com/shaqgrant
 
 ### Technical Skills
 * Front-end tech/frameworks: HTML5, CSS3, JavaScript, AngularJS 1.x
