@@ -10,7 +10,7 @@ GitHub : www.github.com/shaqgrant
 * Object-oriented programming: Python, Java, C\#, C
 
 ### Summary
-I'm a young programmer from Kingston, Jamaica. I'm currently pursuing a BSc in Computer Science at UWI and I'm looking for new opportunities to expand my arsenal of skills. Having been exposed to a variety of programming concepts at UWI has broadened my experience but you'll find me most at home devising creative ways to solve new problems. I have a passion for Software Development, Networking and Cybersecurity with a love for Game Development as a hobby. I'm a quick learner who's always eager to learn new concepts and pick up new technologies.
+A young programmer from Kingston, Jamaica. Currently pursuing a BSc in Computer Science at UWI(almost done) and looking for new opportunities to expand my arsenal of skills. Having been exposed to a variety of programming concepts at UWI has broadened my experience but you'll find me most at home devising creative ways to solve new problems. I have a passion for Software Development, Networking and Cybersecurity with a love for Game Development as a hobby. I'm a quick learner who's always eager to learn new concepts and pick up new technologies.
 
 ### Education
 **University of the West Indies** (Mona)  
