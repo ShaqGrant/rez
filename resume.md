@@ -33,16 +33,12 @@ A young programmer from Kingston, Jamaica. Currently pursuing a BSc in Computer 
 *- Currently developing an E-Learning system geared towards the sharing and reuse of learning objects*
 
 **Networking**  
-*- Implemented a simple Diffie-Hellman client server key exchange via sockets using python*  
 *- Implemented a reliable data transport protocol for the in-order delivery of UDP datagrams*  
 *- Implemented some distance-vector routing algorithms*
 
 **Cybersecurity**  
-*- Designed a simple password cracker*  
-*- Designed a simple port and IP address scanner*  
-*- Designed a spyware based worm*
-
-
+*- Designed a simple IP address & port scanner along with a password cracker*  
+*- Designed a spyware based worm which discreetly records data from a computer's webcam, mic, keyboard and screen*
 
 ### References
 *Available on request*
